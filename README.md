@@ -20,9 +20,9 @@ WEB FRONTEND STUDY
 
 ### 👨‍💻 스터디원
 
-| [<img src="https://github.com/abrightkite.png" width="100px">](https://github.com/abrightkite) | [<img src="https://github.com/yahoo2092.png" width="100px">](https://github.com/yahoo2092) | [<img src="https://github.com/Kwonhyeongjun.png" width="100px">](https://github.com/Kwonhyeongjun) |
-| :----: | :----: | :----: |
-| [박희연](https://github.com/abrightkite) | [배해민](https://github.com/yahoo2092) | [권형준](https://github.com/Kwonhyeongjun) | 
+| [<img src="https://github.com/abrightkite.png" width="100px">](https://github.com/abrightkite) | [<img src="https://github.com/yahoo2092.png" width="100px">](https://github.com/yahoo2092) | [<img src="https://github.com/Kwonhyeongjun.png" width="100px">](https://github.com/Kwonhyeongjun) | [<img src="https://github.com/SlashFruit.png" width="100px">](https://github.com/SlashFruit) |
+| :----: | :----: | :----: | :----: |
+| [박희연](https://github.com/abrightkite) | [배해민](https://github.com/yahoo2092) | [권형준](https://github.com/Kwonhyeongjun) | [윤영석](https://github.com/SlashFruit) | 
 
 ## ⏰ 모임시간
 
