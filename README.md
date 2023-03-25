@@ -10,8 +10,6 @@
 - [🤷 어떻게](#-어떻게)
 - [👀 체크리스트](#-체크리스트)
 
-
-
 ## 🐣 팀소개
 
 WEB FRONTEND STUDY
@@ -22,13 +20,13 @@ WEB FRONTEND STUDY
 
 ### 👨‍💻 스터디원
 
-| [<img src="https://github.com/abrightkite.png" width="100px">](https://github.com/abrightkite) | [<img src="https://github.com/yahoo2092.png" width="100px">](https://github.com/yahoo2092) | [<img src="https://github.com/Kwonhyeongjun.png" width="100px">](https://github.com/Kwonhyeongjun) | [<img src="https://github.com/tjrdbfl.png" width="100px">](https://github.com/tjrdbfl) | [<img src="https://github.com/creator99.png" width="100px">](https://github.com/creator99) |
-| :----: | :----: | :----: |:----:|:----:|
-| [박희연](https://github.com/abrightkite) | [배해민](https://github.com/yahoo2092) | [권형준](https://github.com/Kwonhyeongjun) | [석유리](https://github.com/tjrdbfl) | [김선진](https://github.com/creator99) |
+| [<img src="https://github.com/abrightkite.png" width="100px">](https://github.com/abrightkite) | [<img src="https://github.com/yahoo2092.png" width="100px">](https://github.com/yahoo2092) | [<img src="https://github.com/Kwonhyeongjun.png" width="100px">](https://github.com/Kwonhyeongjun) |
+| :----: | :----: | :----: |
+| [박희연](https://github.com/abrightkite) | [배해민](https://github.com/yahoo2092) | [권형준](https://github.com/Kwonhyeongjun) | 
 
 ## ⏰ 모임시간
 
-매주 목요일 7시 30분
+매주 목요일 7시 00분
 
 ## 📅 스케줄
 
