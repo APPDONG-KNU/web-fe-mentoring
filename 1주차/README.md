@@ -34,7 +34,7 @@
     
     <img src="https://user-images.githubusercontent.com/88179771/227666594-1c29357e-5b32-4bc4-98fe-1dd9e025d480.png" width="480" height="270"/>
     
-- **실습** 🧑‍💻
+- **실습** 💻
     
     **코드**
     
